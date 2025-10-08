@@ -1,0 +1,2 @@
+total_rows,total_columns,missing_Material_pct,missing_CycleTime_pct,duplicates_full_count,cycle_min,cycle_max,cost_min,cost_max
+300,7,2.0,2.0,0,2.0,1000.0,-100.0,1000.0
